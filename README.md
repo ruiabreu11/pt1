@@ -1,1 +1,451 @@
 # pt1
+#EXTINF:-1,-----PORTUGAL-----
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/135944
+#EXTINF:-1,PT: RTP 1
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2211
+#EXTINF:-1,PT: RTP 1 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/162611
+#EXTINF:-1,PT: RTP 1 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205663
+#EXTINF:-1,PT: RTP 2
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2212
+#EXTINF:-1,PT: RTP 2 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205664
+#EXTINF:-1,PT: RTP 2 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/162612
+#EXTINF:-1,PT: SIC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2216
+#EXTINF:-1,PT: SIC HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/169304
+#EXTINF:-1,PT: SIC H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205665
+#EXTINF:-1,PT: TVI
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2220
+#EXTINF:-1,PT: TVI HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/169303
+#EXTINF:-1,PT: TVI H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/209530
+#EXTINF:-1,PT: TVI 24
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2221
+#EXTINF:-1,PT: TVI 24 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338931
+#EXTINF:-1,PT: TVI FICÇAO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136631
+#EXTINF:-1,PT: TVI FICCAO H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338953
+#EXTINF:-1,PT: TVI REALITY
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136659
+#EXTINF:-1,PT: TVI REALITY H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338963
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/264147
+#EXTINF:-1,PT: RTP 3
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136263
+#EXTINF:-1,PT: RTP 3 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338956
+#EXTINF:-1,PT: RTP AFRICA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136684
+#EXTINF:-1,PT: RTP ACORES
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2213
+#EXTINF:-1,PT: RTP MADEIRA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2215
+#EXTINF:-1,PT: RTP MEMORIA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2214
+#EXTINF:-1,PT: SIC NOTICIAS
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2219
+#EXTINF:-1,PT: SIC NOTICIAS H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338932
+#EXTINF:-1,PT: SIC RADICAL
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136264
+#EXTINF:-1,PT: SIC RADICAL H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338962
+#EXTINF:-1,PT: SIC CARAS
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136630
+#EXTINF:-1,PT: SIC CARAS H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338959
+#EXTINF:-1,PT: SIC MULHER
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2218
+#EXTINF:-1,PT: SIC MULHER H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338961
+#EXTINF:-1,PT: CMTV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2204
+#EXTINF:-1,PT: CMTV H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338928
+#EXTINF:-1,PT: ZAP VIVA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/252147
+#EXTINF:-1,PT: ZAP VIVA H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/198367
+#EXTINF:-1,PT: ZAP VIVA HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/252146
+#EXTINF:-1,PT: TCV CABO VERDE
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/240454
+#EXTINF:-1,PT: TV MOÇAMBIQUE
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/240455
+#EXTINF:-1,PT: CASA E COZINHA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/251728
+#EXTINF:-1,PT: CASA E COZINHA H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/251726
+#EXTINF:-1,PT: CASA E COZINHA HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/251727
+#EXTINF:-1,PT: 24 KITCHEN 
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/234098
+#EXTINF:-1,PT: 24 KITCHEN H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2203
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/234099
+#EXTINF:-1,PT: CANÇAO NOVA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/165587
+#EXTINF:-1,PT: CANAL Q
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132901
+#EXTINF:-1,PT: CBS REALITY
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132903
+#EXTINF:-1,PT: E! 
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132910
+#EXTINF:-1,PT: E! H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338958
+#EXTINF:-1,PT: FASHION TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136676
+#EXTINF:-1,PT: FOX NEWS
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132917
+#EXTINF:-1,PT: GLOBO NOW
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132897
+#EXTINF:-1,PT: GLOBO PORTUGAL
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2209
+#EXTINF:-1,PT: GLOBO H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338946
+#EXTINF:-1,PT: GLOBO INTER HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/246535
+#EXTINF:-1,PT: BLOOMBERG
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136683
+#EXTINF:-1,PT: TV RECORD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2225
+#EXTINF:-1,PT: Record TV Europa
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/280118
+#EXTINF:-1,PT: RECORD NEWS
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/212611
+#EXTINF:-1,PT: LOCALVISAO TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132888
+#EXTINF:-1,PT: TV  FATIMA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/165588
+#EXTINF:-1,PT: LUXE TV HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132892
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/256004
+#EXTINF:-1,PT: MARRADAS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319900
+#EXTINF:-1,PT: STRONG BY ZUMBA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319899
+#EXTINF:-1,PT: TREINE EM CASA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319898
+#EXTINF:-1,PT: KARAOKES PT TV EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319897
+#EXTINF:-1,PT: CINEMA STEVEN SEAGAL EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319896
+#EXTINF:-1,PT: CINEMA PORTUGUES EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319895
+#EXTINF:-1,PT: STALLONE VS SCHWARZENEGGER EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319894
+#EXTINF:-1,PT: CINEMA ARTES MARCIAIS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319893
+#EXTINF:-1,PT: DISNEY + EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319892
+#EXTINF:-1,PT: CINEMA EM CASA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319891
+#EXTINF:-1,PT: CINEMA AÇÃO EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319890
+#EXTINF:-1,PT: ESPECIAL EM FAMILIA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319889
+#EXTINF:-1,PT: REVISTA PORTUGUESA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319888
+#EXTINF:-1,PT: CULINARIA TV EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319887
+#EXTINF:-1,PT: CINEMA BRASIL EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319886
+#EXTINF:-1,PT: Canal Barbie EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319885
+#EXTINF:-1,PT: STAND UP EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319884
+#EXTINF:-1,PT: CINEMA FICÇÃO CIENTIFICA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319883
+#EXTINF:-1,PT: CANAL SUSPENSE/TERROR EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319882
+#EXTINF:-1,PT: RALLY MANIA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319881
+#EXTINF:-1,PT: BOOBA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319880
+#EXTINF:-1,PT: CANAL LUCAS NETO TV EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319879
+#EXTINF:-1,PT: FOX KIDS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319878
+#EXTINF:-1,PT: CINEMA FANTASIA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319877
+#EXTINF:-1,PT: CANAL Terra Nossa EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319876
+#EXTINF:-1,PT: MARVEL VS DC EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319875
+#EXTINF:-1,PT: NETFLIX EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319874
+#EXTINF:-1,PT: TV NOVELAS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319873
+#EXTINF:-1,PT: CANAL MOTO GP EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319872
+#EXTINF:-1,PT: WB KIDS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319871
+#EXTINF:-1,PT: CINEMA GUERRA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319870
+#EXTINF:-1,PT: THE VOICE EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319869
+#EXTINF:-1,PT: TOM E OS AMIGOS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319868
+#EXTINF:-1,PT: TOM HEROES EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319867
+#EXTINF:-1,PT: CINEMA MUSICAL EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319866
+#EXTINF:-1,PT: TOP MIX TV EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319865
+#EXTINF:-1,PT: CINEMA COMEDIA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319864
+#EXTINF:-1,PT: MIRACULOUS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319863
+#EXTINF:-1,PT: APAIXONADOS E SERIES EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319862
+#EXTINF:-1,PT: EXTREME SPORTS CHANNEL EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319861
+#EXTINF:-1,PT: CINEMA INDIANO EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319860
+#EXTINF:-1,PT: CINEMA 2020 EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319859
+#EXTINF:-1,PT: FILMES WESTERN EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319858
+#EXTINF:-1,PT: TOM SAWYER + Dartacan EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319857
+#EXTINF:-1,PT: CINEMA TOM CRUISE EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319856
+#EXTINF:-1,PT: NETFLIX KIDS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319855
+#EXTINF:-1,PT: CINEMA JACKIE CHAN EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319854
+#EXTINF:-1,PT: CAFE CONCERTO EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319853
+#EXTINF:-1,PT: COMBATES MMA EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319852
+#EXTINF:-1,PT: JOAO KLEBER SHOW EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319851
+#EXTINF:-1,PT: Cinema KIDS PT EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319850
+#EXTINF:-1,PT: FOLCLORE-DESGARRADAS EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319849
+#EXTINF:-1,PT: RIR ATE CAIR EXCLUSIVO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/319848
+#EXTINF:-1,----- PT CINEMA/SERIES -----
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/139976
+#EXTINF:-1,PT: TVCINE TOP
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/194449
+#EXTINF:-1,PT: TVCINE TOP HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2234
+#EXTINF:-1,PT: TVCINE TOP  H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/207333
+#EXTINF:-1,PT: TVCINE EDITION
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/194450
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2235
+#EXTINF:-1,PT: TVCINE EDITION H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/207334
+#EXTINF:-1,PT: TVCINE EMOTION
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/194460
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2236
+#EXTINF:-1,PT: TVCINE EMOTION H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/207342
+#EXTINF:-1,PT: TVCINE ACTION
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/194461
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2237
+#EXTINF:-1,PT: TVCINE ACTION H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/207343
+#EXTINF:-1,PT: NOS STUDIO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/202823
+#EXTINF:-1,PT: NOS STUDIOS H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/198788
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205662
+#EXTINF:-1,PT: AXN
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136668
+#EXTINF:-1,PT: AXN H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2233
+#EXTINF:-1,PT: AXN HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205656
+#EXTINF:-1,PT: AXN WHITE
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/167482
+#EXTINF:-1,PT: AXN WHITE H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132925
+#EXTINF:-1,PT: AXN WHITE HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205658
+#EXTINF:-1,PT: AXN MOVIES
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/167481
+#EXTINF:-1,PT: AXN MOVIES H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132924
+#EXTINF:-1,PT: AXN MOVIES HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205657
+#EXTINF:-1,PT: AMC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132923
+#EXTINF:-1,PT: AMC H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/169311
+#EXTINF:-1,PT: AMC HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/209534
+#EXTINF:-1,PT: HOLLYWOOD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132921
+#EXTINF:-1,PT: HOLLYWOOD H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/196607
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/221898
+#EXTINF:-1,PT: SYFY
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/169312
+#EXTINF:-1,PT: SYFY H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338952
+#EXTINF:-1,PT: FOX
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/198366
+#EXTINF:-1,PT: FOX H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2206
+#EXTINF:-1,PT: FOX HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205661
+#EXTINF:-1,PT: FOX COMEDY
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2208
+#EXTINF:-1,PT: FOX CRIME
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132913
+#EXTINF:-1,PT: FOX CRIME H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132914
+#EXTINF:-1,PT: FOX CRIME HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/209536
+#EXTINF:-1,PT: FOX LIFE
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/167480
+#EXTINF:-1,PT: FOX LIFE H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132915
+#EXTINF:-1,PT: FOX LIFE HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/233866
+#EXTINF:-1,PT: FOX MOVIES
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2207
+#EXTINF:-1,PT: FOX MOVIES H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338948
+#EXTINF:-1,PT: CINEMUNDO
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132905
+#EXTINF:-1,PT: CINEMUNDO H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338929
+#EXTINF:-1,PT: KURIAKOS CINE
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/178147
+#EXTINF:-1,----- PT DESPORTO -----
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/139977
+#EXTINF:-1,PT: CANAL 11
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/203036
+#EXTINF:-1,PT: CANAL 11 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/203037
+#EXTINF:-1,PT: CANAL 11 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205660
+#EXTINF:-1,PT: SPORT TV +
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/161969
+#EXTINF:-1,PT: SPORT TV +H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338957
+#EXTINF:-1,PT: SPORT TV 1
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/285911
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/302761
+#EXTINF:-1,PT: SPORT TV 1 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/1455
+#EXTINF:-1,PT: SPORT TV 2
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/161957
+#EXTINF:-1,PT: SPORT TV 2 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/1456
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205667
+#EXTINF:-1,PT: SPORT TV 3
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/161966
+#EXTINF:-1,PT: SPORT TV 3 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/1457
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205668
+#EXTINF:-1,PT: SPORT TV 4
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/161967
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/1458
+#EXTINF:-1,PT: SPORT TV 4 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/209531
+#EXTINF:-1,PT: SPORT TV 5
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/161968
+#EXTINF:-1,PT: SPORT TV 5 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/178145
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/1459
+#EXTINF:-1,PT: SPORT TV NBA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/178146
+#EXTINF:-1,PT: SPORT TV NBA H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/183821
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/252145
+#EXTINF:-1,PT: BTV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/161970
+#EXTINF:-1,PT: BTV H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/271763
+#EXTINF:-1,PT: BTV HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/205659
+#EXTINF:-1,PT: PFC INTERNACIONAL
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/277512
+#EXTINF:-1,PT: REDBULL TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/178144
+#EXTINF:-1,PT: REDBULL TV 1080
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/178148
+#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/164977
+#EXTINF:-1,PT: ELEVEN SPORTS 1 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/285912
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/158069
+#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/164978
+#EXTINF:-1,PT: ELEVEN SPORTS 2 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/272329
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/158902
+#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/164979
+#EXTINF:-1,PT: ELEVEN SPORTS 3 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/272330
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/159765
+#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/164980
+#EXTINF:-1,PT: ELEVEN SPORT 4 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/159766
+#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/164981
+#EXTINF:-1,PT: ELEVENSPORT 5 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/159767
+#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/164982
+#EXTINF:-1,PT: ELEVENSPORT 6 HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/159768
+#EXTINF:-1,PT: EUROSPORT 1
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136682
+#EXTINF:-1,PT: EUROSPORT 1 H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2231
+#EXTINF:-1,PT: EUROSPORT 1 HD 
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/252144
+#EXTINF:-1,PT: EUROSPORT 2
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132911
+#EXTINF:-1,PT: A BOLA TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136661
+#EXTINF:-1,PT: A BOLA TV H.265/HEVC
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/338945
+#EXTINF:-1,PT: NBA TV HD
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132918
+#EXTINF:-1,PT: PORTO CANAL
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2210
+#EXTINF:-1,PT: REAL MADRID TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136663
+#EXTINF:-1,PT: CAÇA E PESCA
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132898
+#EXTINF:-1,PT: CAÇAVISION
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/132899
+#EXTINF:-1,PT: SPORTING TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/2232
+#EXTINF:-1,PT: TOROS TV
+http://ip.sltv.xyz:8080/MCrujpTDnX/229v6irg6T/136662
